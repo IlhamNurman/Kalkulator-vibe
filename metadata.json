@@ -1,0 +1,6 @@
+{
+  "name": "Kalkulator Modern",
+  "description": "Aplikasi kalkulator sederhana dengan tampilan modern, clean UI, dan tema dark mode yang responsif dan nyaman di mata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
